@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051635925432",
+    "project_id": "acapp-b7955",
+    "storage_bucket": "acapp-b7955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051635925432:android:e925488b3f9975298ccf4d",
+        "android_client_info": {
+          "package_name": "com.ezbits.acapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051635925432-0jpr9tp0lnhnptko187r1lrdqcq2qvft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvUjbGRZ7ExGeXtkuocHZC1PO6E35V11c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051635925432-0jpr9tp0lnhnptko187r1lrdqcq2qvft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
